@@ -1,0 +1,19 @@
+h1 {
+			color:brown;
+			}
+
+		img{
+			width: 400px;
+		}
+		#ThirdDiv{
+			height: 600px;
+			width:  400px;
+			background-color: cornflowerblue;
+			padding: 50px;
+			border: 5px solid black;
+
+		}
+		#SpanID{
+			font-size: 18px;
+			margin: 50px;
+		}
